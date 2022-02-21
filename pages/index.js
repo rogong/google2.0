@@ -58,6 +58,7 @@ export default function Home() {
           src="https://www.google.co.uk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
           height={100}
           width={300}
+          alt=''
         />
         <div className='flex w-full mt-5 hover:shadow-lg
         focus-within:shadow-lg max-w-md rounded-full border
