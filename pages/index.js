@@ -74,7 +74,7 @@ export default function Home() {
         mt-8 sm:space-y-0 sm:flex-row sm:space-x-4'>
           <button className='btn' onClick={search}>Google Search</button>
 
-          <button className='btn' onClick={search}>I'm Feeling Lucky</button>
+          <button className='btn' onClick={search}>Im Feeling Lucky</button>
         </div>
       </form>
 
